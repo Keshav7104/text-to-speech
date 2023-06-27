@@ -23,7 +23,7 @@ export default function Home() {
       headers: {
         'content-type': 'application/x-www-form-urlencoded',
         'Accept-Encoding': 'application/gzip',
-        'X-RapidAPI-Key': '3bde03bde8msh09255f6b5329849p15f185jsn2e0e8afe5177',
+        'X-RapidAPI-Key': '91eabc2c35msh8756285daf422ccp11243djsnefb7dea69c7b',
         'X-RapidAPI-Host': 'google-translate1.p.rapidapi.com'
       },
       data: encodedParams,
@@ -52,7 +52,7 @@ export default function Home() {
       url: 'https://cloudlabs-text-to-speech.p.rapidapi.com/synthesize',
       headers: {
         'content-type': 'application/x-www-form-urlencoded',
-        'X-RapidAPI-Key': '3bde03bde8msh09255f6b5329849p15f185jsn2e0e8afe5177',
+        'X-RapidAPI-Key': '91eabc2c35msh8756285daf422ccp11243djsnefb7dea69c7b',
         'X-RapidAPI-Host': 'cloudlabs-text-to-speech.p.rapidapi.com'
       },
       data: encodedParams,
